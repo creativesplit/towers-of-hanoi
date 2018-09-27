@@ -6,6 +6,8 @@ The Tower of Hanoi is a mathematical game or puzzle. It consists of three rods a
 3. No disk may be placed on top of a smaller disk.
 
 
+![game screenshot](https://imgur.com/EvMyZe4)
+
 Features
 
 Bronze (MVP)
@@ -19,7 +21,11 @@ In addiiton to the Bronze elements of the game, the silver elements would have a
 Gold
 The gold version would capture, store, and push the results to a scoreboard, where the players are ranked based on their time and the number of moves required to finish the game.  
 
+User Profile
+The Tower of Hanoi game was invented in 1883 by Édouard Lucas. It has existed for some time as mathematical game or puzzle that appeals to a broard range of people looking for different challenges. The game with 3 disks can be completed in as few as 7 moves, while the game with 8 disks requires a minimum of 255 moves to complete.  As a consequence, The Tower of Hanoi has broad appeal and a diverse cultural background.
+
+Technologies Used
+Tower of Hanoi used HTML, CSS, and Javascript.  
 
 Approaches and Methods
-
-This code required various iterations to complete the function.  Given the dynamic nature of the game, where the user can select 1 of 3 disks and 1 of 3 pegs, there was extensive use of element selectors, event listeners, the event.target method, and the append method.  For loops and if/else statements were also used.  
+Given the dynamic nature of the game, where the user can select 1 of 3 disks and 1 of 3 pegs, there was extensive use of element selectors, event listeners, the event.target method, the append method, and the insert before method.  For loops and if/else statements were also used.  
