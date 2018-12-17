@@ -1,5 +1,5 @@
 body{
-    background-color:#d8b25c;
+    background-image: url('https://i.imgur.com/cMMiJDc.jpg');
     color: white;
     text-align: center;
     align-content: center;
@@ -14,8 +14,8 @@ body{
     margin-bottom: 0px;
 }
 .grid-item{
-    border: solid black 3px; */
-    background: white; */
+    border: solid black 1px;
+    background: white;
     color: black;
     position:relative;
 }
