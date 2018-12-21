@@ -1,5 +1,6 @@
 let selected = false;
 let selectedPeg = false;
+
 const selectPeg = document.querySelectorAll('.grid-item')
 
 for (i = 0; i < selectPeg.length; i++) {
